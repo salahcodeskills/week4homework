@@ -1,0 +1,1 @@
+alert = prompt("salah insert your name here");
