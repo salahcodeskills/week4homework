@@ -1,1 +1,4 @@
-alert = prompt("salah insert your name here");
+function myFunction(x, y, z) {
+    return x * y * z;
+
+};
